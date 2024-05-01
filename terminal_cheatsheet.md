@@ -4,9 +4,9 @@
 ||| 
 |---|---|
 |**Ctrl L**|Clears Terminal|
-|**Ctrl +**|Make Terminal bigger|
-|**Ctrl -**|Make Terminal smaller|
-|**Ctrl 0**|Reset Terminal size|
+|**Cmd +**|Make Terminal bigger|
+|**Cmd -**|Make Terminal smaller|
+|**Cmd 0**|Reset Terminal size|
 |**↹ (tab)**|Autofill|
 |**↑ and ↓ (arrow keys)**|Select previous Terminal commands|
 ---
@@ -49,7 +49,7 @@
 #### Opening Files and Directories:
 ||| 
 |---|----|
-|**`open file`**|Deletes file|
+|**`open file`**|Opens file|
 |**`open .`**|Opens the folder in Finder|
 ---
 #### Deleting Files and Directories:
@@ -57,6 +57,6 @@
 |---|----|
 |**`rm file`**|Deletes file|
 |**`rmdir folder`**|Deletes an empty folder|
-|**`rm -r folder`**|Deletes a folder and it's content|
-|**`rm -f file`**|Deletes a file without confirmation (**do not** use unless you are sure)|
+|**`rm -r folder`**|Deletes folder and it's content|
+|**`rm -f file`**|Deletes file without confirmation (**do not** use unless you are sure)|
 
